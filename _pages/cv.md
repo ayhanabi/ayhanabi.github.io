@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Electrical and Electronics Engineering, Middle East Technical University, 1991
+* M.Sc. in Electrical and Electronics Engineering, Middle East Technical University, 1995
+* Ph.D in Computer Engineering, TOBB University of Econimics and Technology, 2016
 
 Work experience
 ======
