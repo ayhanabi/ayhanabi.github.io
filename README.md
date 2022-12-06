@@ -1,2 +1,2 @@
-# ayhanabi.github.io
-Personal web page of Dr.Ayhan Akbas
+### www.ayhanakbas.com
+Personal web page of Dr. Ayhan Akbas
