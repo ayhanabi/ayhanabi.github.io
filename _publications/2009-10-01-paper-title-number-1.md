@@ -8,7 +8,7 @@ venue: 'Journal 1'
 paperurl: 'http://ayhanabi.github.io/files/paper1.pdf'
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://ayhanabi.github.io/files/paper1.pdf)
 
 
 @article{akbas2022stacking,
