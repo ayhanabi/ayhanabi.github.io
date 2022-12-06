@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ayhan Akbas"
+title                    : "Dr.Ayhan Akbas"
 title_separator          : "-"
-name                     : &name "Ayhan Akbas"
+name                     : &name "Dr. Ayhan Akbas"
 description              : &description "Computer Engineer, Ph.D<br/>Academician"
 url                      : https://ayhanabi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Ayhan Akbas"
   avatar           : "foto400.jpeg"
-  bio              : "Professor of Computer Engineering at Abdullah Gul University, Kayseri, Turkey"
+  bio              : "Asst. Professor of Computer Engineering at Abdullah Gul University, Kayseri, Turkey"
   location         : "Kayseri, Turkey"
   employer         :
   pubmed           : 
