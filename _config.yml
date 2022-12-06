@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr.Ayhan Akbas"
+title                    : "Dr. Ayhan Akbas"
 title_separator          : "-"
 name                     : &name "Dr. Ayhan Akbas"
 description              : &description "Computer Engineer, Ph.D<br/>Academician"
@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr.Ayhan Akbas"
+  name             : "Dr. Ayhan Akbas"
   avatar           : "foto400.jpeg"
   bio              : "Asst. Professor of Computer Engineering at Abdullah Gul University, Kayseri, Turkey"
   location         : "Kayseri, Turkey"
