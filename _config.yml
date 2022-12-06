@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ayhan Akbaş"
+title                    : "Ayhan Akbas"
 title_separator          : "-"
-name                     : &name "Ayhan Akbaş"
+name                     : &name "Ayhan Akbas"
 description              : &description "Computer Engineer, Ph.D<br/>Academician"
 url                      : https://ayhanakbas.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
