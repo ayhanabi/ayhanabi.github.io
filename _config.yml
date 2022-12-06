@@ -58,12 +58,12 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &ayhanakbas
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : 
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ayhan Akbas"
+  name             : "Dr.Ayhan Akbas"
   avatar           : "foto400.jpeg"
   bio              : "Asst. Professor of Computer Engineering at Abdullah Gul University, Kayseri, Turkey"
   location         : "Kayseri, Turkey"
