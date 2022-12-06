@@ -81,15 +81,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ayhan Akbaş"
+  name             : "Ayhan Akbas"
   avatar           : "foto.jpeg"
-  bio              : "Asst. Professor of Computer Engineering at Abdullah Gul University, Kayseri, Turkey"
-  location         : "Location"
+  bio              : "Professor of Computer Engineering at Abdullah Gul University, Kayseri, Turkey"
+  location         : "Kayseri, Turkey"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=MfO694MAAAAJ&hl=tr&oi=ao"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :   
   uri              :
   bitbucket        :
   codepen          :
@@ -101,16 +101,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0002-6425-104X"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "ayhanakbas"
   vine             :
   weibo            :
   xing             :
